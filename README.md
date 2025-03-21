@@ -1,2 +1,8 @@
 # Loan-Prediction-ML
-Machine learning model to predict loan approval status
+
+## Problem statement:
+Predict whether a loan will be approved based on applicaant details.
+
+## Models used
+RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier, LogisticRegression, DecisionTreeClassifier
+
